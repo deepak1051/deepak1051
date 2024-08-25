@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center"> Hi, I'm <a href="https://www.linkedin.com/in/abhimanyu12321/" target="_blank"> Abhimanyu </a> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+  <h1 align="center"> Hi, I'm <a href="https://www.linkedin.com/in/deepak-panwar-21a6b7244/" target="_blank"> Deepak Panwar </a> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 <p></h1>
 <!-- <h3 align="right" > <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=MERN+Stack+Developer+%3A)" /> </h3> -->
 <p align="right">
@@ -9,23 +9,23 @@
   <h2>⚡️ A Few Quick Facts <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px >  </h2> 
   <ul>
 <!--     <li>👋 Hi, I’m Aashish Dhiman.</li> -->
-    <li>🧑‍💼 FullStack web-development intern  @ Infloso.</li>
-    <li>👀 I’m a DSA, Web Development and Machine Learning enthusiast.</li>
+    <li>🧑‍💼 FullStack web-development intern  @ Hexadecimal Software.</li>
+    <li>👀 I’m a Web Development and Full stack enthusiast.</li>
 <!--     <li>📖 I’m currently learning Full Stack Web Development.</li> -->
     <li>❓ Ask me about anything related to web , programming and related technologies.</li>
-    <li>🎉 Fun Fact: I Love Computer Science.</li>    
-    <li>📙 Check out my <a href="https://drive.google.com/file/d/198x-q_j3LrFScMkx_6NgU9DpeZUAqq6K/view?usp=sharing" target="_blank" rel="noreferrer">resume</a>.</li> 
+    <li>🎉 Fun Fact: I Love React JS.</li>    
+    <!-- <li>📙 Check out my <a href="https://drive.google.com/file/d/198x-q_j3LrFScMkx_6NgU9DpeZUAqq6K/view?usp=sharing" target="_blank" rel="noreferrer">resume</a>.</li>  -->
 <!--     <li>📙 Check out my <a href="https://portfolio-aashish.vercel.app/" target="_blank" rel="noreferrer">portfolio</a>.</li>  -->
     <li>🧑‍💻 Check out my coding profiles && portfolio -
-      <ul>
+      <!-- <ul>
         <li>
-            <a href="https://leetcode.com/u/Abhimanyu12321/" target=”_blank”>Leetcode</a></li> 
+            <a href="https://leetcode.com/u/Deepak12321/" target=”_blank”>Leetcode</a></li> 
         <li>
             <a href="https://portfolio-one-gold-76.vercel.app/" target=”_blank”>Portfolio</a></li> 
         </li>
         </li>
         </li>
-      </ul>
+      </ul> -->
   </ul>
 </div>
 
@@ -35,8 +35,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=abhimanyu12321&show_icons=true&theme=dark&locale=en" alt="Abhimanyu" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhimanyu12321&show_icons=true&theme=dark&locale=en&layout=compact" alt="Abhimanyu" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=deepak1051&show_icons=true&theme=dark&locale=en" alt="Deepak" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak1051&show_icons=true&theme=dark&locale=en&layout=compact" alt="Deepak" /></td>
   </tr>
 </table>
 
