@@ -14,7 +14,7 @@
 <!--     <li>📖 I’m currently learning Full Stack Web Development.</li> -->
     <li>❓ Ask me about anything related to web , programming and related technologies.</li>
     <li>🎉 Fun Fact: I Love React JS.</li>    
-    <li>📙 Check out my <a href="https://google.com" target="_blank" >resume</a>.</li> 
+    <li>📙 Check out my <a href="https://drive.google.com/file/d/1QhamkFdPB5kUTh0M8rprLEMGU2ngix_r/view?usp=sharing" target="_blank" >resume</a>.</li> 
       
   </ul>
 </div>
