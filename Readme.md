@@ -14,7 +14,7 @@
 <!--     <li>📖 I’m currently learning Full Stack Web Development.</li> -->
     <li>❓ Ask me about anything related to web , programming and related technologies.</li>
     <li>🎉 Fun Fact: I Love React JS.</li>    
-    <li>📙 contact deepakpanwar1051@gmail.com</li> 
+    <li>📩 Contact me at <a href="mailto:deepakpanwar1051@gmail.com">deepakpanwar1051@gmail.com</a></li>
       
   </ul>
 </div>
