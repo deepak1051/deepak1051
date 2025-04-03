@@ -9,7 +9,7 @@
   <h2>⚡️ A Few Quick Facts <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px >  </h2> 
   <ul>
 <!--     <li>👋 Hi, I’m Aashish Dhiman.</li> -->
-    <li>🧑‍💼 FullStack web-development intern  @ Luhaif Digitech.</li>
+    <li>🧑‍💼 FullStack Developer  @ Luhaif Digitech.</li>
     <li>👀 I’m a Web Development and Full stack enthusiast.</li>
 <!--     <li>📖 I’m currently learning Full Stack Web Development.</li> -->
     <li>❓ Ask me about anything related to web , programming and related technologies.</li>
